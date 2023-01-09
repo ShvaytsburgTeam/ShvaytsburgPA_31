@@ -1,1 +1,1 @@
-something
+You need to write python3 prog.py to run programm
